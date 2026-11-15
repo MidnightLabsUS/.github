@@ -23,58 +23,66 @@ Midnight Labs is an independent technology company building software, dependable
 
 We work at the intersection of **engineering, infrastructure, and security** — turning complex technical challenges into systems that work.
 
-## / CAPABILITIES
+## / WHAT WE DO
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**01 — SOFTWARE**
+### 01 / SOFTWARE ENGINEERING
 
-Applications, platforms, integrations, and purpose-built tools.
+We design and develop applications, platforms, APIs, and integrations built around real operational needs.
 
 </td>
 <td width="50%" valign="top">
 
-**02 — INFRASTRUCTURE**
+### 02 / SYSTEMS & INFRASTRUCTURE
 
-Server environments, hosting, deployment, and system reliability.
+We build and maintain server environments, deployment pipelines, hosting platforms, and self-hosted services.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**03 — NETWORKING & SECURITY**
+### 03 / NETWORKING & SECURITY
 
-Network engineering, infrastructure hardening, and cybersecurity.
+We explore and implement network architecture, system hardening, access control, and practical security solutions.
 
 </td>
 <td width="50%" valign="top">
 
-**04 — MANAGED IT**
+### 04 / MANAGED IT
 
-Technical support, maintenance, and ongoing IT operations.
+We provide ongoing technical support, maintenance, infrastructure oversight, and day-to-day IT operations.
 
 </td>
 </tr>
 </table>
 
-## / ECOSYSTEM
+## / OUR APPROACH
 
-| NAME | DESCRIPTION |
+**DESIGN → BUILD → DEPLOY → MAINTAIN**
+
+From an initial concept to a live production system, we focus on solutions that are practical to operate, straightforward to maintain, and built to grow.
+
+## / THE ECOSYSTEM
+
+Midnight Labs works across its own projects and partner organizations.
+
+| ORGANIZATION | ROLE |
 |:--|:--|
-| **Midnight Labs** | Software, infrastructure, cybersecurity, and managed IT. |
+| **Midnight Labs** | Core technology, software, infrastructure, and managed IT. |
 | **Zenvy Support** | A ticketing and support platform. |
 | **Apex MCC** | A community-focused organization and partner. |
 
-## / LET'S CONNECT
+## / WORK WITH US
 
-Have a project, a question, or an idea worth building?
+Have an idea, a technical challenge, or a project in mind?
 
 <div align="center">
 
-[**midnightlabs.tech →**](https://midnightlabs.tech)
+[**VISIT MIDNIGHTLABS.TECH →**](https://midnightlabs.tech)
 
 <br>
 
