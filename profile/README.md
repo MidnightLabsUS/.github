@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://static.midnightlabs.tech/Branding/banners/Banner_Blue.png" alt="Midnight Labs" width="100%">
+</p>
+
+<p align="center">
   <strong>MIDNIGHT LABS</strong><br>
   <sub>INDEPENDENT TECHNOLOGY. BUILT AFTER DARK.</sub>
 </p>
