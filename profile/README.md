@@ -2,13 +2,6 @@
   <img src="https://static.midnightlabs.tech/Branding/banners/Banner_Blue.png" alt="Midnight Labs" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/software-development-242424?style=flat-square&labelColor=090909" alt="Software development">
-  <img src="https://img.shields.io/badge/infrastructure-242424?style=flat-square&labelColor=090909" alt="Infrastructure">
-  <img src="https://img.shields.io/badge/networking-242424?style=flat-square&labelColor=090909" alt="Networking">
-  <img src="https://img.shields.io/badge/cybersecurity-242424?style=flat-square&labelColor=090909" alt="Cybersecurity">
-</p>
-
 ---
 
 ### About
