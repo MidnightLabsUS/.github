@@ -1,37 +1,74 @@
-<p align="center">
-  <img src="https://static.midnightlabs.tech/Branding/banners/Banner_Blue.png" alt="Midnight Labs" width="100%">
-</p>
+<div align="center">
+
+<img src="https://static.midnightlabs.tech/Branding/banners/Banner_Blue.png" alt="Midnight Labs" width="100%">
+
+<br>
+
+# MIDNIGHT LABS
+
+**INDEPENDENT TECHNOLOGY. BUILT AFTER DARK.**
+
+Building software, infrastructure, and practical digital solutions.
+
+[Website](https://midnightlabs.tech) · [GitHub](https://github.com/MidnightLabsUS)
+
+</div>
 
 ---
 
-### About
+## Who we are
 
-Midnight Labs is an independent technology company focused on building software, dependable infrastructure and practical digital solutions.
+Midnight Labs is an independent technology company focused on building dependable software and digital infrastructure. We bring together thoughtful engineering, practical security, and reliable systems to solve real-world problems.
 
-We work across software development, network and server infrastructure, cybersecurity, self-hosted technologies and managed IT services — with an emphasis on thoughtful engineering and long-term reliability.
+## What we do
 
-### What we do
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Area | Focus |
+### Software & platforms
+Purpose-built applications, internal tools, integrations, and digital products.
+
+</td>
+<td width="50%" valign="top">
+
+### Infrastructure & networking
+Server administration, network design, deployment, hosting, and reliability.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Cybersecurity
+Infrastructure hardening, security-minded engineering, and safer systems.
+
+</td>
+<td width="50%" valign="top">
+
+### Managed IT
+Ongoing technical support, system maintenance, and IT operations.
+
+</td>
+</tr>
+</table>
+
+## Our ecosystem
+
+| Organization | Focus |
 | --- | --- |
-| **Software** | Purpose-built applications, platforms and internal tools. |
-| **Infrastructure** | Server administration, deployment, hosting and system reliability. |
-| **Networking** | Network design, configuration and troubleshooting. |
-| **Security** | Practical security engineering and infrastructure hardening. |
-| **Managed IT** | Ongoing technical support and IT operations. |
+| **Midnight Labs** | Software, infrastructure, cybersecurity, and managed IT services. |
+| **Zenvy Support** | A ticketing and support platform. |
+| **Apex MCC** | A community-focused organization and partner. |
 
-### Our ecosystem
+## Connect
 
-- **Midnight Labs** — Software development, infrastructure and technology services.
-- **Zenvy Support** — A ticketing and support platform.
-- **Apex MCC** — A community-focused organization and partner.
+Questions, partnerships, or project inquiries?
 
-### Get in touch
-
-For questions, collaboration or support, visit [midnightlabs.tech](https://midnightlabs.tech).
+**[midnightlabs.tech](https://midnightlabs.tech)**
 
 ---
 
-<p align="center">
-  <sub>Midnight Labs · Independent technology. Built after dark.</sub>
-</p>
+<div align="center">
+<sub>© Midnight Labs · Independent technology. Built after dark.</sub>
+</div>
